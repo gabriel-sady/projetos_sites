@@ -21,9 +21,7 @@
     margin: 0px;
     padding: 0px;
 }
-{
-    height: 100%
-}
+
 body{
     background-color: var(--cor1);
     font-family: var(--fonte-padrao);
@@ -131,5 +129,10 @@ footer{
     background-color: #195734;
     text-align: center;
     font-size: 0.8em;
+    color: white;
+}
+footer a{
+    text-decoration: none;
+    font-weight: bold;
     color: white;
 }
