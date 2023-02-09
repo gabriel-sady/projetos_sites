@@ -13,13 +13,14 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    padding: 0px 0px 0px 25vw;
 }
 #cell{
     background-image: url(imagens/frame-iphone.png);
     background-repeat: no-repeat;
     width: 310px;
     height: 627px;
-    margin-left: 35vw;
+    margin: auto;
     display: inline-block;
     position: relative;
 }
